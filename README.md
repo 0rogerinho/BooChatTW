@@ -14,7 +14,7 @@ BooChatTW captura o chat da Twitch e o exibe de forma transparente na tela. Idea
 
 - Abra o aplicativo.
 
-![alt text](image-3.png)
+![alt text]([image-3.png](https://drive.google.com/file/d/18k_rfbmvsKDwQZZTyzouP05UmUkLFhb1/view?usp=sharing))
 
 - Acesse a seção Configurações e insira o nome do canal da Twitch.
 ![alt text](image.png)
