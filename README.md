@@ -28,4 +28,4 @@ BooChatTW captura o chat da Twitch e o exibe de forma transparente na tela. Idea
 - Para deixar o chat Transparent ou fazê-lo voltar a aparecer você pode usar ```CTRL + ALT + A``` ou clicar no olhinho
 
 ![Captura de tela 2025-02-23 175332](https://github.com/user-attachments/assets/ee677aef-14ca-4065-b157-8a1e80ea1aa6)
-![Captura de tela 2025-02-23 175526](https://github.com/user-attachments/assets/bb9122ab-86b4-40be-abdb-41d808738eb4)
+![Captura de tela 2025-02-23 175613](https://github.com/user-attachments/assets/d7ca397e-96b5-4d5c-98ee-4ff8a1b53749)
