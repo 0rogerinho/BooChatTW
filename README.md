@@ -4,10 +4,9 @@ BooChatTW captura o chat da Twitch e o exibe de forma transparente na tela. Idea
 
 # Download
 
-- Executável (.exe): https://drive.google.com/file/d/1iraVVq-k2zSq-SCabnY-0-fXjCelB32A/view?usp=sharing
-- pack: https://drive.google.com/file/d/1ri2rIHr_vl8Y9ub0hTSdcmuUt6tQLu8l/view?usp=sharing
+- Executável (.exe): [BooChatTW Unpacked](https://drive.google.com/file/d/1iraVVq-k2zSq-SCabnY-0-fXjCelB32A/view?usp=sharing)
 
-- Versão sem instalação (win-unpacked): [BooChatTW Unpacked](https://www.mediafire.com/folder/ncs3feywy4koo/BooChatTW-unpacked)
+- Versão sem instalação (win-unpacked): [BooChatTW Unpacked](https://drive.google.com/file/d/1ri2rIHr_vl8Y9ub0hTSdcmuUt6tQLu8l/view?usp=sharing)
 
 ## Como Utilizar
 
